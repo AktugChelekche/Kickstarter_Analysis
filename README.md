@@ -21,5 +21,12 @@ The data we have received from her was not clear enough to analyze it so that we
 
 #### Challenges:
 The challenge for me in this part to how to filter the rows by month instead of year and remove sub dates but I figured out how to clean the pivot table by swithing among tables.  
+
+ #### Visualize the percentage of successful, failed, and canceled plays based on the funding goal amount
+
+
+
+
+
     
  
