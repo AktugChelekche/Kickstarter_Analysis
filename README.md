@@ -55,9 +55,16 @@ alt="Image 3 - Goal Column "width="150" height="200"/>
 #### Challenges:
 Visualize campaign outcomes: The challenge for me in this part to how to filter the rows by month instead of year and remove sub dates but I figured out how to clean the pivot table by switching among tables.
 
-Visualize the percentages:  I had skipped the filtering of Subcategory and obtain a graph that is way different than it supposed to be so that I realize that I needed to give more attention of the each details in order to create most accurate visuals. 
+Visualize the percentages: I had skipped the filtering of Subcategory and obtain a graph that is way different than it supposed to be so that I realize that I needed to give more attention of the each details in order to create most accurate visuals. 
 
 ### Results 
+##### Theater Outcomes by Launch Date 
+  1. There are sufficient evidence to accept that during May - June window we have more successful campaign launches than any other months. 
+  2. There are not significant correlation between months/years for Canceled campaigns. Therefore we can conclude that there must be some other factors for cancellation such as high correlation between Gaol and Pledge amount. 
+##### Outcomes based on Goals 
+  1. By looking at the sample dataset we have extract from main dataset, around 46% of the campaign were successfully whereas 56% were failed. 
+###### Dataset is limited with around 4200 projects, also inserting information such as "City", "State" and "Target population " would make give the dataset more readable and easy to reach conclusion. For instance, in my opinion having a campaign based on Food category would be more successful than having a photograph campaign in Houston/TX
+##### Creating tables and graphs for  average goal,pledged, backers on varies outcomes would be a good idea for a better presentation as we say " What you see is What you get ."
 
 
 
