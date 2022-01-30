@@ -17,7 +17,10 @@ The data we have received from her was not clear enough to analyze it so that we
   * Filtered the column labels to show only "successful," "failed," and "canceled."
   * Count of Outcomes category by months then create line chart to demonstrate the relation between date and outcomes. 
 <br><br/>
- <p align="center"> <img src= "https://user-images.githubusercontent.com/60187022/151681917-3ea73ec0-5fac-4f97-8943-96ddbcbccbbc.PNG" alt="Image 1-Pivot Table" width="400" height="200" /> <img src="https://user-images.githubusercontent.com/60187022/151681546-cc603aa7-bca4-42e6-bb7d-fb83c4cc0ae0.PNG" alt="Image 2- Theater Outcomes Based on Launch Date" width="400" height="200"/> </p>
+<p align="center">
+ <img src= "https://user-images.githubusercontent.com/60187022/151681917-3ea73ec0-5fac-4f97-8943-96ddbcbccbbc.PNG" alt="Image 1-Pivot Table" width="400" height="200" /> <img src="https://user-images.githubusercontent.com/60187022/151681546-cc603aa7-bca4-42e6-bb7d-fb83c4cc0ae0.PNG" alt="Image 1- Theater Outcomes Based on Launch Date" width="400" height="200"/>
+ <p align="center">Image 2- Theater Outcomes Based on Launch Date</p>
+</p>
 
 
  #### Visualize the percentage of successful, failed, and canceled plays based on the funding goal amount.
@@ -34,16 +37,24 @@ The data we have received from her was not clear enough to analyze it so that we
   * Percentage Canceled
 
  * In the “Goal” column, create the following dollar-amount ranges so projects can be grouped based on their goal amount.
-<p align="center"> <img src="https://courses.bootcampspot.com/courses/1122/files/1257752/preview" alt="Image 3 - Goal Column "width="400" height="200" />
+<p align="center" >
+    <img src="https://user-images.githubusercontent.com/98676400/151710355-051496d4-bd50-4de2-b7e3-5db4aeba5b76.png"
+alt="Image 3 - Goal Column "width="150" height="200"/>
+    <p align="center">Image2-Goal Column</p>
+ </p>
 
  * We  populate the "Number Successful," "Number Failed," and "Number Canceled" columns by filtering on the Kickstarter "outcome" column, on the "goal" amount column using the ranges created in , and on the "Subcategory" column using "plays" as the criteria by formula : COUNTIFS() .
 
  * After populating percentage columns and total projects by outcome category, finally created a Line Chart that demonstrate Percentage of each outcome category based on their fundraising Goal.
 
- p align="center"> <img src="https://courses.bootcampspot.com/courses/1122/files/1258221/preview" alt="Image 4 - Outcomes Based on Goal "width="400" height="200" />
+ <p align="center"> 
+  <img src="https://user-images.githubusercontent.com/98676400/151710829-1e4e6ed1-13ef-47c7-82bf-a0e71837d4f1.png" alt="Image 3 - "width="400" height="200" />
+   <p align="center">Image3-Outcomes Based on Goal</p>
+ </p>
 
 #### Challenges:
 Visualize campaign outcomes: The challenge for me in this part to how to filter the rows by month instead of year and remove sub dates but I figured out how to clean the pivot table by switching among tables.
+
 Visualize the percentages:  I had skipped the filtering of Subcategory and obtain a graph that is way different than it supposed to be so that I realize that I needed to give more attention of the each details in order to create most accurate visuals. 
 
 ### Results 
