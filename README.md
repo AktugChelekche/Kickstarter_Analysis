@@ -64,7 +64,10 @@ Visualize the percentages: I had skipped the filtering of Subcategory and obtain
 ##### Outcomes based on Goals 
   1. By looking at the sample dataset we have extract from main dataset, around 46% of the campaign were successfully whereas 56% were failed. 
 ###### Dataset is limited with around 4200 projects, also inserting information such as "City", "State" and "Target population " would make give the dataset more readable and easy to reach conclusion. For instance, in my opinion having a campaign based on Food category would be more successful than having a photograph campaign in Houston/TX
-##### Creating tables and graphs for  average goal,pledged, backers on varies outcomes would be a good idea for a better presentation as we say " What you see is What you get ."
+###### Creating tables and graphs for  average goal,pledged, backers on varies outcomes would be a good idea for a better presentation as we say " What you see is What you get ."
+
+
+Aktug Cilekci 
 
 
 
